@@ -1,0 +1,1 @@
+ref: https://css-tricks.com/using-github-template-repos-to-jump-start-static-site-projects/
